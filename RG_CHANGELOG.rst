@@ -8,6 +8,13 @@ The format is based on `Keep a Changelog <https://keepachangelog.com/en/1.0.0/>`
 [Unreleased]
 ************
 
+[quince-rg.1] 2024-03-12
+************************
+
+Sync:
+=====
+Update on upstream open-release/quince.master
+
 [palm-rg.2] 2023-12-01
 **********************
 
